@@ -2124,6 +2124,21 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
+"@zenstack/react-zen-store@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@zenstack/react-zen-store/-/react-zen-store-0.1.0.tgz#f1de717a4e1f1927591bcb6eaa826cbdf5d9efd1"
+  integrity sha512-dVRmnqXZAOeRNRygUowDAyAgh0BlOY8HU2tjx/CyCVUJOhAdPtpY/uhAEbpmwhxTJbzBt1tUYyo1CwCySG+xxg==
+
+"@zenstack/zen-bus@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@zenstack/zen-bus/-/zen-bus-0.1.0.tgz#281f06923964997bcee788a731093677729c2609"
+  integrity sha512-IjGl5/ILn/Lin4u/yNRf0hnA0jhqhNbYlxeYtE+hBkbXvjrktzpdKUTUP5YjVkhGSBdBmEDFlheNkQuq/k5lSA==
+
+"@zenstack/zen-store@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@zenstack/zen-store/-/zen-store-0.1.0.tgz#0fc4d63ceba009be2ab0dff486d5eaa4bfa2b336"
+  integrity sha512-TQF6Am2H8oHixI5BJ1hoZ75wSD2KoWevg54ohRv9o01WxLvMWFJkdFh8Nmu5K5+a1iT9PL9G1BtI1wxE4eQxmA==
+
 abab@^2.0.3:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.5.tgz#c0b678fb32d60fc1219c784d6a826fe385aeb79a"
